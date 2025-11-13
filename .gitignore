@@ -1,0 +1,45 @@
+Python bytecode (compiled files)
+
+*.pyc
+pycache/
+
+Virtual Environment Folder
+
+This ignores the 'venv' directory that you created.
+
+venv/
+
+Dependencies managed by Conda/Poetry/Pipenv
+
+If you used 'venv' created by Conda, it's also covered by 'venv/' above.
+
+.venv/
+env/
+.env
+
+Installer/package files
+
+*.egg-info/
+dist/
+build/
+*.whl
+
+Operating System Files
+
+.DS_Store
+
+VS Code specific files
+
+.vscode/
+
+Jupyter Notebook files
+
+.ipynb_checkpoints
+
+Credentials/Secrets (IMPORTANT!)
+
+Make sure to never commit environment variables or secrets!
+
+*.env
+.vscode/settings.json
+*.key
