@@ -1,0 +1,50 @@
+langchain
+ipykernal
+jupyterlab
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-embeddings
+langchain-vectorstores
+langchain-retrievers
+langchain-document-loaders
+langchain-llms
+langchain-prompts
+langchain-chains
+langchain-graph
+langchain-graph-visualization
+langchain-graph-visualization-jupyter
+langchain-graph-visualization-jupyterlab
+langchain-graph-visualization-jupyterlab-extension
+langchain-graph-visualization-jupyterlab-extension-server
+langchain-graph-visualization-jupyterlab-extension-server-proxy
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file-system
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file-system-local
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file-system-local-file
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file-system-local-file-system
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file-system-local-file-system-local
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file-system-local-file-system-local-file
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file-system-local-file-system-local-file-cache
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file-system-local-file-system-local-file-cache-file
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file-system-local-file-system-local-file-cache-file-system
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file-system-local-file-system-local-file-cache-file-system-local
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file-system-local-file-system-local-file-cache-file-system-local-file
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file-system-local-file-system-local-file-cache-file-system-local-file-cache
+langchain-graph-visualization-jupyterlab-extension-server-proxy-protocol-client-utils-async-io-requests-cache-backend-file-system-local-file-system-local-file-cache-file-system-local-file-cache-file # This is a placeholder for the actual package names
+# Note: The above package names are illustrative and may not exist in the actual PyPI repository.
+# You should replace them with the actual package names you need.
+# If you need specific versions, you can specify them like this:
+# langchain==0.0.1
+# If you need to pin versions, you can do so like this:
+# langchain>=0.0.1,<0.1.0
+# If you need to install from a specific source, you can do so like this:
+# -e git+

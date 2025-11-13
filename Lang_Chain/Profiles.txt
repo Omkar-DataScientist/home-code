@@ -1,0 +1,7 @@
+
+https://www.linkedin.com/in/nikhil-agrawal1621/,
+https://www.linkedin.com/in/hemanjana-tirumalasetty-634852143/,
+https://www.linkedin.com/in/naveen-bandi-36613a1a4/,
+https://www.linkedin.com/in/omkar-chevuri-2677ab137/
+
+The above code is wrong, I need to get profiles suggested for my keyword eg :Bigdata , Data science, AI engineer etc., searching from linkedin or Naukri when passed the link. So it should ask for the Link for Naukri , Linkedin , And ask for the Requirement. Based on the requirement it should go and search the profiles and then suggest the right profiles matching the requirement
